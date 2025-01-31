@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "9f51d07eb76daa73",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b525416a8b05133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac30cd87c18d397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "环境梳理.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "环境梳理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98766a540d87abf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9440af48ee75339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d46f4c5f5b7b29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8f713c07759844ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dca70d9b89afa5b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "f052a317d4ecda4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f340d1dbf6495dc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeabfe554de7c68f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "环境梳理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "环境梳理 的反向链接列表"
+            }
+          },
+          {
+            "id": "f77fce49a056f07c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "环境梳理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "环境梳理 的出链列表"
+            }
+          },
+          {
+            "id": "4bbcd50b5c941e71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3160d8a61bc1284f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "环境梳理.md"
+              },
+              "icon": "lucide-list",
+              "title": "环境梳理 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cac30cd87c18d397",
+  "lastOpenFiles": [
+    "obsidian链接笔记教程.md",
+    "环境梳理.md",
+    "不用信用卡更改谷歌play地区.md",
+    "simpread-【血汗泪心路历程】怎么彻底删掉 Sangfor 文件？怎么彻底删除 easyconnect？删除 sangfor 后网络坏了、某些 app 无法正常启动怎么解决？-CSDN 博客.md",
+    "C语言的历史.md"
+  ]
+}
