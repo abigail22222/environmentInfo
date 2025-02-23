@@ -63,7 +63,7 @@ ip a
    ```bash
    ssh username@ip_address
    ```
-   - 替换 `username` 为Ubuntu主机的用户名。
+   - 替换 `username` 为Ubuntu主机的用户名，就是你登陆系统用的用户名
    - 替换 `ip_address` 为Ubuntu主机的IP地址。
 
 3. **首次连接确认**：
